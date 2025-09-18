@@ -223,6 +223,8 @@ nav a:hover{
   filter: brightness(0) invert(0.5) sepia(1) hue-rotate(300deg) saturate(5);
   cursor: pointer;
 }
+
+
 .about{
   display: flex;
   justify-content: space-around;
@@ -543,12 +545,14 @@ nav a:hover{
 .Contact{
   margin-top: 6rem;
   margin-bottom: 4rem;
+  background-color: #0f131a;
 }
 
 .contact-head{
   font-size: 2rem;
   font-weight: 600;
   text-align: center;
+  margin-top: 1rem;
   margin-bottom: 1.5rem;
 }
 
@@ -595,3 +599,4 @@ nav a:hover{
   filter: brightness(0) invert(0.5) sepia(1) hue-rotate(300deg) saturate(5);
   cursor: pointer;
 }
+
